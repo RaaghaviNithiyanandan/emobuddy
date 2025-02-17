@@ -55,7 +55,10 @@ EmoBuddy is a chatbot designed to provide emotional support and coping strategie
 
     *   **Google Colab:** Open the `emobuddy_colab.ipynb` notebook in Google Colab and follow the instructions in the notebook.
 
+
 ## Running in Google Colab
 
 The `emobuddy_colab.ipynb` notebook provides a convenient way to run the EmoBuddy chatbot in a Google Colab environment.  Follow the instructions within the notebook to set up the environment, configure API keys, and launch the chatbot.
 
+ **DISCLAIMER:**
+EmoBuddy is a proof-of-concept project for educational and exploratory purposes. It is not intended to provide medical or therapeutic advice, and should not be considered a substitute for professional mental health care. We have taken precautions to avoid causing offense, but users should be aware that AI responses can be unpredictable. We are not responsible for any emotional distress or harm that may arise from the use of EmoBuddy.
