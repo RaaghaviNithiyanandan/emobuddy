@@ -59,6 +59,3 @@ EmoBuddy is a chatbot designed to provide emotional support and coping strategie
 
 The `emobuddy_colab.ipynb` notebook provides a convenient way to run the EmoBuddy chatbot in a Google Colab environment.  Follow the instructions within the notebook to set up the environment, configure API keys, and launch the chatbot.
 
-## License
-
-(Specify the license under which the project is released, e.g., MIT License. Create a `LICENSE` file in the repository.)
